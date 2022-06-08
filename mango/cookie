@@ -1,0 +1,44 @@
+{
+   "is_returning":0,
+   "uid":"1473230900446401588",
+   "session":"sess.2.3941281330.1574435331891",
+   "views":6,
+   "referer_url":"",
+   "referer_domain":"",
+   "referer_type":"direct",
+   "visits":1,
+   "landing":"http://staging-order.mango.htb/",
+   "enter_at":"2019-11-22|10:8:51",
+   "first_visit":"2019-11-22|10:8:51",
+   "last_visit":"2019-11-22|10:8:51",
+   "last_variation":"",
+   "utm_source":false,
+   "utm_term":false,
+   "utm_campaign":false,
+   "utm_content":false,
+   "utm_medium":false,
+   "consent":""
+}
+
+
+{
+   "is_returning":0,
+   "uid":"1473230900446401588",
+   "session": {$exists: true},
+   "views":6,
+   "referer_url":"",
+   "referer_domain":"",
+   "referer_type":"direct",
+   "visits":1,
+   "landing":"http://staging-order.mango.htb/",
+   "enter_at":"2019-11-22|10:8:51",
+   "first_visit":"2019-11-22|10:8:51",
+   "last_visit":"2019-11-22|10:8:51",
+   "last_variation":"",
+   "utm_source":false,
+   "utm_term":false,
+   "utm_campaign":false,
+   "utm_content":false,
+   "utm_medium":false,
+   "consent":""
+}
